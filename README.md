@@ -52,7 +52,7 @@ Informasi dataset dapat dilihat pada tabel dibawah ini :
 | Tags     | Movies and TV Shows |
 | Usability | 2.94 |
 
-Pada berkas yang diunduh yakni movies.csv berisi 9743 rows × 3 columns dan ratings.csv berisi 100k++ baris dan 4 columns. Kolom-kolom tersebut terdiri dari 2 buah kolom bertipe objek dan 1 buah kolom bertipe numerik (tipe data int64) pada file movies.csv dan pada files ratings.csv terdiri dari 4 buah kolom bertipe numerik (int64 dan float64). Untuk penjelasan mengenai variabel-variable pada dataset movies recomendation ini dapat dilihat sebagai berikut:
+Pada berkas yang diunduh yakni movies.csv berisi 9742 rows × 3 columns dan ratings.csv berisi 100k++ baris dan 4 columns. Kolom-kolom tersebut terdiri dari 2 buah kolom bertipe objek dan 1 buah kolom bertipe numerik (tipe data int64) pada file movies.csv. Untuk penjelasan mengenai variabel-variable pada dataset movies recomendation ini dapat dilihat sebagai berikut:
 - **movieId** merupakan parameter bernilai unique. Parameter ini digunakan utk mengindetifikasi daftar tiap-tiap film.
 - **userId** merupakan parameter bernilai unique. Parameter ini digunakan utk mengindetifikasi daftar tiap-tiap pengguna.
 - **rating** merupakan parameter berisi nilai rating film yg diberikan pengguna
